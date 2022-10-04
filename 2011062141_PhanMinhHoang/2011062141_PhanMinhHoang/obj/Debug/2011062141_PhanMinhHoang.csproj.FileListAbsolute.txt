@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\_2011062141_PhanMinhHoang.Form1.resources
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\_2011062141_PhanMinhHoang.Properties.Resources.resources
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\bin\Debug\2011062141_PhanMinhHoang.exe.config
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\bin\Debug\2011062141_PhanMinhHoang.exe
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\bin\Debug\2011062141_PhanMinhHoang.pdb
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.exe
+C:\Users\Admin\source\repos\2011062141_PhanMinhHoang\2011062141_PhanMinhHoang\obj\Debug\2011062141_PhanMinhHoang.pdb
